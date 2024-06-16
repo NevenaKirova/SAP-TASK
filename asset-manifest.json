@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SAP-TASK/static/css/main.1545b6c7.css",
+    "main.js": "/SAP-TASK/static/js/main.c0e6d0da.js",
+    "static/media/logo.png": "/SAP-TASK/static/media/logo.a47aecc0b61606c695cf.png",
+    "index.html": "/SAP-TASK/index.html",
+    "main.1545b6c7.css.map": "/SAP-TASK/static/css/main.1545b6c7.css.map",
+    "main.c0e6d0da.js.map": "/SAP-TASK/static/js/main.c0e6d0da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1545b6c7.css",
+    "static/js/main.c0e6d0da.js"
+  ]
+}
