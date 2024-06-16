@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&display=swap");
+
+html,
+body,
+#root,
+.app,
+.content {
+  width: 100%;
+  margin: 0;
+  font-family: "Arimo", sans-serif;
+  font-optical-sizing: auto;
+  color: #454646;
+}
+
+p {
+  margin: 0;
+}
+
+body {
+  overflow: hidden;
+  position: relative;
+}
+
+.app {
+  display: flex;
+  position: relative;
+}
+
+.content {
+  flex: 1;
+  position: relative;
+  overflow: auto;
+  height: 100vh;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  width: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #b6b4b4;
+  borderradius: "24px";
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.d-flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+input:disabled {
+  cursor: not-allowed;
+}

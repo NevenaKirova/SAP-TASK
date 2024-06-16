@@ -1,0 +1,99 @@
+.user-management {
+  padding: 20px 50px;
+}
+
+.user-management h2 {
+  margin-bottom: 20px;
+  font-size: 22px;
+}
+
+.user-management-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.user-management-header h2 {
+  margin-left: 0;
+}
+
+.user-management-header button {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: fit-content;
+  border-radius: 5px;
+  border: none;
+}
+
+.users-btns {
+  width: 230px;
+}
+
+.user-management-header button:hover {
+  opacity: 0.9;
+}
+
+.create-new {
+  padding: 10px;
+  background-color: #009fe5;
+  color: white;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.create-new span,
+.filters-btn svg {
+  margin-right: 10px;
+}
+
+.filters-btn svg {
+  margin-right: 10px;
+  height: 18px;
+  width: 20px;
+  padding-bottom: 2px;
+}
+
+.filters-btn {
+  background: none;
+  padding: 0;
+  font-weight: 500;
+  font-size: 16px;
+  color: #454646;
+}
+
+.edit-drawer {
+  width: 50vw;
+}
+
+.chip-container {
+  display: flex;
+  gap: 5px;
+}
+
+.chip-container .chip {
+  border: 1px solid #009fe5;
+  color: #009fe5;
+}
+
+.chip-status-active {
+  color: #036219 !important;
+  background-color: rgb(211, 245, 198) !important;
+}
+
+.table {
+  box-shadow: rgba(0, 0, 0, 0.3) 0 1px 3px !important;
+}
+
+.edit-icon {
+  color: #009fe5;
+  height: 20px;
+  width: 20px;
+}
+
+.delete-icon {
+  color: #ed3d3d;
+  height: 20px;
+  width: 20px;
+}

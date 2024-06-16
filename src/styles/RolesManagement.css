@@ -1,0 +1,13 @@
+.roles-management {
+  padding: 20px 50px;
+}
+
+.tabs {
+  padding-left: 25px;
+}
+
+.tabs button {
+  align-items: start;
+  padding: 0;
+  margin-right: 10px;
+}
