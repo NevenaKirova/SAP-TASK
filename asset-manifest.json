@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/SAP-TASK/static/css/main.1545b6c7.css",
-    "main.js": "/SAP-TASK/static/js/main.b566295d.js",
-    "static/media/logo.png": "/SAP-TASK/static/media/logo.a47aecc0b61606c695cf.png",
-    "index.html": "/SAP-TASK/index.html",
-    "main.1545b6c7.css.map": "/SAP-TASK/static/css/main.1545b6c7.css.map",
-    "main.b566295d.js.map": "/SAP-TASK/static/js/main.b566295d.js.map"
+    "main.css": "/management/applications/static/css/main.1545b6c7.css",
+    "main.js": "/management/applications/static/js/main.fd3486d7.js",
+    "static/media/logo.png": "/management/applications/static/media/logo.a47aecc0b61606c695cf.png",
+    "index.html": "/management/applications/index.html",
+    "main.1545b6c7.css.map": "/management/applications/static/css/main.1545b6c7.css.map",
+    "main.fd3486d7.js.map": "/management/applications/static/js/main.fd3486d7.js.map"
   },
   "entrypoints": [
     "static/css/main.1545b6c7.css",
-    "static/js/main.b566295d.js"
+    "static/js/main.fd3486d7.js"
   ]
 }
