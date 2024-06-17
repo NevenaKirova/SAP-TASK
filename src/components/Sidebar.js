@@ -85,7 +85,7 @@ const Sidebar = () => {
             <ul className={`sidebar-submenu ${isDropdownOpen ? "open" : ""}`}>
               <li className="sidebar-menu-subitem">
                 <NavLink
-                  to="/SAP-TASK/management/applications"
+                  to="/management/applications"
                   className={({ isActive }) => (isActive ? "active" : "")}
                 >
                   <span>Applications</span>
@@ -94,7 +94,7 @@ const Sidebar = () => {
 
               <li className="sidebar-menu-subitem">
                 <NavLink
-                  to="/SAP-TASK/management/roles"
+                  to="/management/roles"
                   className={({ isActive }) => (isActive ? "active" : "")}
                 >
                   <span>Roles</span>
@@ -103,7 +103,7 @@ const Sidebar = () => {
 
               <li className="sidebar-menu-subitem">
                 <NavLink
-                  to="/SAP-TASK/management/users"
+                  to="/management/users"
                   className={({ isActive }) => (isActive ? "active" : "")}
                 >
                   <span>Users</span>
