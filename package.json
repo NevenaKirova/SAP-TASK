@@ -1,7 +1,7 @@
 {
   "name": "sap-management",
   "version": "0.1.0",
-  "homepage": "https://nevenakirova.github.io/",
+  "homepage": "https://nevenakirova.github.io/SAP-TASK/",
   "private": true,
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",

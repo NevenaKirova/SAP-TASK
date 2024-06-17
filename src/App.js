@@ -16,11 +16,11 @@ function App() {
         <Header />
         <Routes>
           <Route
-            path="/management/applications"
+            path="/SAP-TASK/management/applications"
             element={<ApplicationsManagement />}
           />
-          <Route path="/management/roles" element={<RolesManagement />} />
-          <Route path="/management/users" element={<UserManagement />} />
+          <Route path="/SAP-TASK/management/roles" element={<RolesManagement />} />
+          <Route path="/SAP-TASK/management/users" element={<UserManagement />} />
         </Routes>
       </div>
     </div>
